@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div className="bg-gradient-to-b from-yellow-100 to-black text-white min-h-screen font-sans">
       <header className="text-center py-8">
-        <img src="/public/logo.png" alt="Tokshop Logo" className="mx-auto w-24" />
+        <img src="/logo.png" alt="Tokshop Logo" className="mx-auto w-24" />
         <h1 className="text-4xl font-bold text-yellow-400 mt-4">Tokshop</h1>
         <p className="text-lg text-gray-200 mt-2">Cari produk winning Shopee & TikTok secara instan, akurat & hemat!</p>
       </header>
