@@ -2,9 +2,9 @@ export default function Home() {
   return (
     <div className="bg-gradient-to-b from-yellow-100 to-black text-white min-h-screen font-sans">
       <header className="text-center py-8">
-        <img src="/logo-new.png" alt="Tokshop Logo" className="mx-auto w-24" />
+        <img src="/public/logo.png" alt="Tokshop Logo" className="mx-auto w-24" />
         <h1 className="text-4xl font-bold text-yellow-400 mt-4">Tokshop</h1>
-        <p className="text-lg text-gray-200 mt-2">Solusi Riset Produk Shopee & TikTok</p>
+        <p className="text-lg text-gray-200 mt-2">Cari produk winning Shopee & TikTok secara instan, akurat & hemat!</p>
       </header>
 
       <section className="text-center px-4 py-8">
@@ -18,7 +18,7 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-4">💰 Harga Terjangkau</h2>
         <ul className="max-w-md mx-auto text-left text-lg space-y-2">
           <li>✅ Paket Mingguan: Rp 25.000</li>
-          <li>✅ Paket Bulanan: Rp 70.000</li>
+          <li>✅ Paket Bulanan: Rp 49.000</li>
           <li>✅ Lifetime (Terbatas): Rp 199.000</li>
         </ul>
       </section>
@@ -27,12 +27,12 @@ export default function Home() {
         <h2 className="text-2xl font-bold text-yellow-300 mb-6">Testimoni Pengguna</h2>
         <div className="max-w-4xl mx-auto grid md:grid-cols-2 gap-6 text-left">
           <blockquote className="bg-white text-black p-4 rounded shadow">
-            “Layanan terbaik untuk pemula jualan online! UI-nya clean, datanya akurat.”
-            <footer className="mt-2 text-sm">– Rina, Dropshipper</footer>
+            “Bisa nemuin produk viral tiap minggu berkat Tokshop!”
+            <footer className="mt-2 text-sm">– Andi, Reseller Shopee</footer>
           </blockquote>
           <blockquote className="bg-white text-black p-4 rounded shadow">
-            “Gue bisa riset 3x lebih cepat dibanding tools mahal sebelumnya!”
-            <footer className="mt-2 text-sm">– Bayu, TikTok Affiliate</footer>
+            “Sangat membantu buat cari winning product TikTok Shop.”
+            <footer className="mt-2 text-sm">– Citra, TikTok Affiliate</footer>
           </blockquote>
         </div>
       </section>
